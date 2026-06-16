@@ -1,100 +1,163 @@
+<!-- TERMINAL HEADER -->
 <div align="center">
 
-<!-- Typing animation header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+lvin410+%F0%9F%91%8B;Python+Developer;Data+%26+ML+Enthusiast;Building+cool+things+%F0%9F%9A%80)](https://git.io/typing-svg)
+```
+██╗██╗   ██╗██╗███╗   ██╗    ██╗   ██╗ █████╗ ██████╗  ██████╗ ██╗  ██╗███████╗███████╗███████╗
+██║██║   ██║██║████╗  ██║    ██║   ██║██╔══██╗██╔══██╗██╔════╝ ██║  ██║██╔════╝██╔════╝██╔════╝
+██║██║   ██║██║██╔██╗ ██║    ██║   ██║███████║██████╔╝██║  ███╗███████║█████╗  ███████╗█████╗  
+██║╚██╗ ██╔╝██║██║╚██╗██║    ╚██╗ ██╔╝██╔══██║██╔══██╗██║   ██║██╔══██║██╔══╝  ╚════██║██╔══╝  
+██║ ╚████╔╝ ██║██║ ╚████║     ╚████╔╝ ██║  ██║██║  ██║╚██████╔╝██║  ██║███████╗███████║███████╗
+╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝      ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=root%40ivin410%3A~%24+whoami;Data+Analyst+%2F%2F+Power+BI+Developer+%2F%2F+SQL+Analyst;%5BOK%5D+Initializing+analytics_engine...;%5BOK%5D+Loading+dashboards...+10%2C000%2B+records+indexed;%5BOK%5D+Access+granted.+Welcome+back.)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Profile views + followers badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=lvin410&color=a371f7&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/lvin410?style=flat-square&color=a371f7&labelColor=1a1a2e)](https://github.com/lvin410)
+![Profile Views](https://komarev.com/ghpvc/?username=Ivin410&color=00ff41&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/Ivin410?style=flat-square&color=00ff41&labelColor=0d1117)](https://github.com/Ivin410)
+![Location](https://img.shields.io/badge/UAE-Sharjah-00ff41?style=flat-square&logo=googlemaps&logoColor=00ff41&labelColor=0d1117)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## `root@portfolio:~/boot`
 
-```python
-class lvin410:
-    name       = "lvin410"
-    focus      = ["Data Science", "Machine Learning", "Dashboard Development"]
-    languages  = ["Python", "SQL", "JavaScript"]
-    currently  = "Building data-driven projects"
-    ask_me_about = ["Python", "ML models", "Data visualisation", "API integration"]
+```bash
+[OK] mounting /dev/skills ............ python · sql · power_bi
+[OK] loading dashboards .............. 10,000+ records indexed
+[OK] starting analytics_engine ....... eda · ml · viz
+[OK] authenticating user ............. ivin_varghese_george
+[OK] access granted. welcome back.
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## `ivin@portfolio:~$ cat about.txt`
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+```python
+class IvinVargheseGeorge:
+    role       = ["Data Analyst", "Power BI Developer", "SQL Analyst"]
+    location   = "Sharjah, United Arab Emirates"
+    focus      = ["EDA", "Dashboard Development", "Machine Learning"]
+    languages  = ["Python", "SQL", "C#", "Java", "JavaScript"]
+    currently  = "Building data-driven projects that matter"
+    ask_me_about = [
+        "Power BI", "EDA", "Predictive Analytics",
+        "Data Visualisation", "ML Models", "API Integration"
+    ]
+    contact    = "ivin.varkey@outlook.com"
+    portfolio  = "https://ivin410.github.io/portfolio/"
+```
 
 ---
 
-## 🚀 Featured Projects
+## `ivin@portfolio:~$ ./skills.sh --list-modules`
 
-| Project | Description | Tech |
+<div align="center">
+
+| Module | Status | Stack |
 |---|---|---|
-| [🎮 Fivem-Registry-Checker](https://github.com/lvin410/Fivem-Registry-Checker) | Detects suspected PC alterations for FiveM game integrity | `Python` |
-| [📈 Live-Climate-Analysis](https://github.com/lvin410/Live-Climate-Analysis) | Real-time climate analysis using OpenWeather API | `Python` `API` |
-| [🦠 COVID-19-Dashboard](https://github.com/lvin410/COVID-19-Dashboard) | Interactive COVID-19 dashboard from Kaggle datasets | `Python` `Plotly` |
-| [😶 Face-Emotion](https://github.com/lvin410/Face-Emotion) | Real-time facial emotion recognition system | `Python` `OpenCV` |
-| [📉 Churn-Dashboard](https://github.com/lvin410/churn-dashboard) | Customer churn prediction & visual dashboard | `Python` `ML` |
-| [💹 Live-Trader-Starter](https://github.com/lvin410/live-trader-starter) | Live trading starter framework | `Python` |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lvin410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a371f7&icon_color=a371f7&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvin410&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=lvin410&theme=tokyonight&hide_border=true&background=0d1117&ring=a371f7&fire=ff6b6b&currStreakLabel=a371f7)](https://git.io/streak-stats)
+| **Programming & Query** | `RUNNING` | ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41) ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=00ff41) ![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=00ff41) |
+| **Analysis & Viz** | `RUNNING` | ![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=flat-square&logo=powerbi&logoColor=00ff41) ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=00ff41) ![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=flat-square&logo=plotly&logoColor=00ff41) |
+| **Databases & Tools** | `RUNNING` | ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=00ff41) ![Snowflake](https://img.shields.io/badge/Snowflake-0d1117?style=flat-square&logo=snowflake&logoColor=00ff41) ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00ff41) |
+| **ML Engine** | `RUNNING` | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=00ff41) ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=00ff41) |
+| **BI & Analytics** | `RUNNING` | `Dashboard Dev` · `KPI Reporting` · `Predictive Analytics` |
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## `ivin@portfolio:~/projects$ ls -la`
+
+```
+drwxr-xr-x  ivin410  projects/
+```
+
+| File | Description | Tech |
+|---|---|---|
+| [`sales_performance_dashboard.pbix`](https://github.com/Ivin410) | Interactive dashboard on 10K+ sales records — KPIs, regional trends | `Power BI` `SQL` `Excel` |
+| [`customer_churn_prediction.py`](https://github.com/Ivin410/churn-dashboard) | Random Forest churn model with feature engineering & evaluation | `Python` `Scikit-learn` `Pandas` |
+| [`netflix_data_analysis.ipynb`](https://github.com/Ivin410) | EDA on Netflix datasets — genre trends, ratings, content patterns | `Python` `Pandas` `Seaborn` |
+| [`face_emotion.py`](https://github.com/lvin410/Face-Emotion) | Real-time facial emotion recognition system | `Python` `OpenCV` |
+| [`live_climate_analysis.py`](https://github.com/lvin410/Live-Climate-Analysis) | Real-time climate analysis via OpenWeather API | `Python` `API` |
+| [`covid19_dashboard.py`](https://github.com/lvin410/COVID-19-Dashboard) | Interactive COVID-19 dashboard from Kaggle datasets | `Python` `Plotly` |
+
+---
+
+## `ivin@portfolio:~$ tail -f experience.log`
+
+```
+[04/2025 — 04/2026] :: Assistant Professor @ MES College of Engineering, Kochi
+  → Delivered lectures in computing and data analytics
+  → Mentored students in academic projects and research initiatives
+
+[12/2024 — 03/2025] :: Data Analyst Intern @ Smaartt Digital Consulting, Kochi
+  → Performed EDA on sales datasets — revenue trends, regional & customer behaviour
+  → Built dashboards using Python, Matplotlib, Seaborn for stakeholder decision-making
+  → Cleaned & transformed raw datasets via Python and SQL to improve reporting accuracy
+```
+
+---
+
+## `ivin@portfolio:~$ cat education.dat certs.dat`
+
+```
+[DEGREE]  M.Sc. Data Analytics          — Rajagiri College of Social Sciences  (2023–2025)
+[DEGREE]  B.C.A. Computer Applications  — Saintgits College of Applied Sciences (2020–2023)
+
+[CERT]    Microsoft Power BI Data Analyst
+[CERT]    SQL for Data Science           — UC Davis
+[CERT]    Data Analysis with Python      — IBM
+```
+
+---
+
+## `ivin@portfolio:~$ ./stats.sh`
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lvin410&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ivin410&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivin410&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ivin410&theme=terminal&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## `ivin@portfolio:~$ ./contact.sh --open-channel`
+
+```
+[CHANNEL OPEN] All ports active.
+
+  ✉  Email    → ivin.varkey@outlook.com
+  🔗 LinkedIn → linkedin.com/in/ivin-varghese-george-49792b414
+  🌐 GitHub   → github.com/Ivin410
+  🌍 Portfolio→ https://ivin410.github.io/portfolio/
+  📍 Location → Sharjah, United Arab Emirates
+```
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lvin410&bg_color=0d1117&color=a371f7&line=a371f7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/ivin-varghese-george-49792b414)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00ff41)](https://ivin410.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:ivin.varkey@outlook.com)
 
 </div>
 
 ---
 
 <div align="center">
+
+```
+█ END OF FILE — Sharjah, United Arab Emirates — © 2026 Ivin Varghese George
+```
 
 *"First, solve the problem. Then, write the code."*
 
