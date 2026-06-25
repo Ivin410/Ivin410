@@ -1,110 +1,110 @@
-# Ivin Varghese George
-### DATA ANALYST · POWER BI DEVELOPER · SQL ANALYST
+<h1 align="center">Ivin Varghese George</h1>
+<h3 align="center">Data Analyst · Power BI Developer · SQL Analyst</h3>
 
-🟢 **Open to work** &nbsp;|&nbsp; 📍 Sharjah, United Arab Emirates
-&nbsp;
-📧 ivin.varkey@outlook.com &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivin-varghese-george-49792b414) &nbsp;[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ivin410)
+<p align="center">
+  <a href="https://linkedin.com/in/ivin-varghese-george-49792b414">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://ivin410.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+  <a href="mailto:ivin.varkey@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Sharjah%2C%20UAE-00897B?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
 ---
 
-## 📊 Dashboard
+## About Me
 
-| 📈 Records Analysed | 🗂️ Projects Delivered | 🏅 Certifications |
-|:-------------------:|:---------------------:|:-----------------:|
-| **10K+** | **6+** | **3** |
+I'm a Data Analyst and Power BI Developer based in Sharjah, UAE, with a background in data analytics, dashboard development, and machine learning. I specialise in turning raw datasets into actionable insights through exploratory data analysis, predictive modelling, and interactive visualisations.
+
+- 🎓 M.Sc. in Data Analytics — Rajagiri College of Social Sciences
+- 💼 Former Assistant Professor & Data Analyst Intern
+- 📊 Experienced with 10,000+ record datasets, KPI reporting, and BI dashboards
+- 🤝 Open to Data Analyst, Power BI, and Analytics Engineer roles
 
 ---
 
-## 🛠️ Core Skills
+## Technical Skills
 
-```
-Power BI    ████████████████████░░  90%
-SQL         ███████████████████░░░  88%
-Python      ██████████████████░░░░  85%
-Tableau     ████████████████░░░░░░  78%
-ML / EDA    ███████████████░░░░░░░  75%
-```
+**Languages & Query**
 
-**Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+**Data & BI**
 
-**Data & Visualization**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
-
-**Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 
 **Machine Learning**
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📊 Sales Performance Dashboard
-> **Power BI · SQL · Excel**
-
-Interactive dashboard analysing **10K+ sales records** to monitor KPIs and regional sales trends. Includes product-based performance breakdowns and actionable business insights.
-
----
-
-### 🤖 Customer Churn Prediction
-> **Python · Scikit-learn · Pandas**
-
-Machine learning model using **Random Forest** to predict customer churn. Covers data preprocessing, feature engineering, and full model evaluation pipeline.
+| Project | Description | Tech Stack |
+|---|---|---|
+| [**Customer Churn Dashboard**](https://github.com/Ivin410/churn-dashboard) | Random Forest churn prediction model with feature engineering and evaluation metrics | Python · Scikit-learn · Pandas |
+| [**Live Climate Analysis**](https://github.com/Ivin410/Live-Climate-Analysis) | Real-time climate data analysis and visualisation via OpenWeather API | Python · API · Matplotlib |
+| [**COVID-19 Dashboard**](https://github.com/Ivin410/COVID-19-Dashboard) | Interactive COVID-19 tracking dashboard built from Kaggle datasets | Python · Plotly |
+| [**Face Emotion Recognition**](https://github.com/Ivin410/Face-Emotion) | Real-time facial emotion detection system | Python · OpenCV |
+| [**FiveM Registry Checker**](https://github.com/Ivin410/Fivem-Registry-Checker) | Tool to detect game mechanic alterations in FiveM clients | Python |
 
 ---
 
-### 🎬 Netflix Data Analysis
-> **Python · Pandas · Seaborn**
+## GitHub Stats
 
-Exploratory Data Analysis on Netflix datasets to uncover content trends, audience patterns, genre popularity, release trends, and ratings distribution.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ivin410&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivin410&layout=compact&theme=default&hide_border=true" height="160" />
+</p>
 
----
-
-## 💼 Experience
-
-**Data Analyst Intern** — Smaartt Digital Consulting &nbsp;|&nbsp; *Dec 2024 – Mar 2025 · Kochi, India*
-- Performed EDA on sales datasets to identify revenue trends, regional performance, and customer behaviour patterns
-- Built data visualisations and analytical reports using Python, Matplotlib, and Seaborn
-- Cleaned and transformed raw datasets using Python and SQL to improve reporting accuracy
-- Prepared dashboards and summarised analytical findings for stakeholders and management teams
-
-**Assistant Professor** — MES College of Engineering &nbsp;|&nbsp; *Dec 2025 – Apr 2026 · Kochi, India*
-- Delivered lectures and tutorials in computing and data analytics subjects
-- Mentored students in academic projects, research activities, and practical learning initiatives
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ivin410&theme=default&hide_border=true" />
+</p>
 
 ---
 
-## 🎓 Education
+## Experience
 
-🎓 **Master of Science in Data Analytics** — Rajagiri College of Social Sciences *(2023 – 2025)*
+**Assistant Professor** — MES College of Engineering, Kochi *(Apr 2025 – Apr 2026)*
+- Delivered lectures in computing and data analytics
+- Mentored students across academic projects and research initiatives
 
-🎓 **Bachelor of Computer Applications** — Saintgits College of Applied Sciences *(2020 – 2023)*
+**Data Analyst Intern** — Smaartt Digital Consulting, Kochi *(Dec 2024 – Mar 2025)*
+- Performed EDA on sales datasets covering revenue trends, regional patterns, and customer behaviour
+- Built interactive dashboards using Python, Matplotlib, and Seaborn for stakeholder reporting
+- Cleaned and transformed raw datasets via Python and SQL to improve reporting accuracy
 
 ---
 
-## 🏅 Certifications
+## Education & Certifications
 
-| Certificate | Issuer |
+**M.Sc. Data Analytics** — Rajagiri College of Social Sciences *(2023–2025)*  
+**B.C.A. Computer Applications** — Saintgits College of Applied Sciences *(2020–2023)*
+
+| Certification | Issuer |
 |---|---|
 | Microsoft Power BI Data Analyst | Microsoft |
 | SQL for Data Science | UC Davis |
@@ -112,15 +112,16 @@ Exploratory Data Analysis on Netflix datasets to uncover content trends, audienc
 
 ---
 
-## 📈 GitHub Stats
+## Get in Touch
 
-![Ivin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivin410&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivin410&layout=compact&theme=default&hide_border=true)
+I'm always open to discussing data projects, collaboration opportunities, or new roles.
+
+📧 [ivin.varkey@outlook.com](mailto:ivin.varkey@outlook.com)  
+🔗 [linkedin.com/in/ivin-varghese-george-49792b414](https://linkedin.com/in/ivin-varghese-george-49792b414)  
+🌐 [ivin410.github.io/portfolio](https://ivin410.github.io/portfolio/)
 
 ---
 
 <p align="center">
-  <a href="mailto:ivin.varkey@outlook.com">📧 ivin.varkey@outlook.com</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/ivin-varghese-george-49792b414">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://github.com/Ivin410">GitHub</a>
+  <img src="https://komarev.com/ghpvc/?username=Ivin410&style=flat-square&color=0A66C2&label=Profile+Views" />
 </p>
